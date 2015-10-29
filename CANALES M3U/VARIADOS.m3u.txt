@@ -511,9 +511,3 @@ http://200.76.77.237/LIVE/H01/CANAL727/PROFILE03.m3u8?-1332/1499-20151020T153535
 http://200.76.77.237/LIVE/H01/CANAL728/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
 #EXTINF:-1 tvg-id="TV Guia_Ritmoson Latino" tvg-name="Ritmoson_Latino" tvg-logo="ritmoson-latino.png" group-title="Español",Ritmoson Latino
 http://200.76.77.237/LIVE/H01/CANAL731/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1 tvg-id="TV Guia_Bandamax" tvg-name="Bandamax" tvg-logo="bandamax.png" group-title="Español",Bandamax
-http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8?-1332/1499-20151020T153535.ts
-#EXTINF:-1,DIRECTV SPORTS
-http://185.63.255.112/live/max3a1/playlist.m3u8
-#EXTINF:-1,BOX NATION
-http://80.82.78.165:1935/live/box/live.m3u8
